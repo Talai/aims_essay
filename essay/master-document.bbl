@@ -1,0 +1,47 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Web(Accessed May 2017)]{Web}
+3.2.4.3.1.sklearn.ensemble.randomforestclassifier.
+\newblock Webots,
+  \url{http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html#examples-using-sklearn-ensemble-randomforestclassifier},
+  Accessed May 2017.
+
+\bibitem[Berry and Linoff(1997)]{berry1997data}
+Michael~J Berry and Gordon Linoff.
+\newblock \emph{Data mining techniques: for marketing, sales, and customer
+  support}.
+\newblock John Wiley \& Sons, Inc., 1997.
+
+\bibitem[Dickson et~al.(2013)Dickson, Hardy, and Waters]{dickson2013actuarial}
+David~CM Dickson, Mary~R Hardy, and Howard~R Waters.
+\newblock \emph{Actuarial mathematics for life contingent risks}.
+\newblock Cambridge University Press, 2013.
+
+\bibitem[Hatko(2017)]{hatko2017bank}
+Stan Hatko.
+\newblock The bank of canada 2015 retailer survey on the cost of payment
+  methods: Nonresponse.
+\newblock Technical report, Bank of Canada Technical Report, 2017.
+
+\bibitem[James et~al.(2014)James, Witten, and Hastie]{james2014introduction}
+Gareth James, Daniela Witten, and Trevor Hastie.
+\newblock An introduction to statistical learning: With applications in r.,
+  2014.
+
+\bibitem[Macedo(2009)]{macedo2009role}
+Lionel Macedo.
+\newblock The role of the underwriter in insurance.
+\newblock \emph{Primer Series on Insurance,(8)}, 1, 2009.
+
+\bibitem[pred()]{MikeBatty}
+pred.
+\newblock Predictive modelling for life insurance.
+\newblock \url{www.soa.org/files/pdf/research-pred-mod-life-batty.pdf},
+  Accessed April 2017.
+
+\end{thebibliography}
